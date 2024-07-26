@@ -1,0 +1,2 @@
+🇧🇷 -> Projeto em java focado em construir uma aplicação de streaming de séries e filmes para consolidar conceitos da linguem e de programação orientada a objetos.  
+🇺🇸 -> Java project focused on building a series and film streaming application to consolidate language and object-oriented programming concepts.
